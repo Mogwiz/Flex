@@ -10,12 +10,35 @@ body {
 
 #card {
     background-color: white;
+    width: 288px;
+    height: 503px;
+    margin-top: 150px;
+    margin-left: 576px;
+    border-radius: 27px;
 }
 
 img {
-    width: 20px;
+    width: 7%;
+    padding-top: 20px;
 }
 
 #forever {
     font-family: "Allan", serif;
+}
+
+button {
+    margin-left: 576px;
+}
+
+.features {
+    display: flex;
+    padding-bottom: 15px;
+}
+
+hr {
+    width: 66%;
+}
+
+h1 {
+    text-align: center;
 }
